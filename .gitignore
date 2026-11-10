@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+AA记账本.xlsx
+.pytest_cache/
